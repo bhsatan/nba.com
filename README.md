@@ -1,2 +1,2 @@
 # images.news.grofers.com-
-##subdomain takeover
+## Subdomain takeover
